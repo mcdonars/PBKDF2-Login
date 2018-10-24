@@ -8,6 +8,8 @@ using System.Web.UI.WebControls;
 using System.Configuration;
 using System.Text.RegularExpressions;
 
+// Robert Sean McDonald 10/23/18
+
 public partial class UserCreate : System.Web.UI.Page
 {
     bool boolProceed = true;

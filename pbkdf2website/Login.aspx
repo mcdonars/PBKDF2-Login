@@ -4,6 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
         <div class="jumbotron d-inline-flex flex-column col-lg-4 offset-4">
+            <!-- Robert Sean McDonald 10/23/18 -->
             <strong>Login</strong><br />
             <strong class="text-center text-info">Welcome!</strong>
             <asp:TextBox ID="txtUsername" runat="server" placeholder="Username" CssClass=" p-1 m-2"></asp:TextBox>
