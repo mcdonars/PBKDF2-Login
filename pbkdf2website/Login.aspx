@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-        <div class="jumbotron d-inline-flex flex-column col-lg-4 offset-4">
+        <div class="jumbotron d-inline-flex flex-column col-lg-4 col-md-4 col-sm-4 col-4 offset-4 container">
             <!-- Robert Sean McDonald 10/23/18 -->
             <strong>Login</strong><br />
             <strong class="text-center text-info">Welcome!</strong>

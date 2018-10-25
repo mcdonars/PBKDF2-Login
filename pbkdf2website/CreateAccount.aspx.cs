@@ -25,7 +25,7 @@ public partial class UserCreate : System.Web.UI.Page
             }
             else
             {
-                lblStatus.Text = "Invalid Password! Must be 8 Characters long, contain one number and one special character";
+                lblStatus.Text = "Invalid Password! Must be 8 Characters long, contain one uppercase letter, contain one number, and one special character";
                 boolProceed = false;
             }
 
